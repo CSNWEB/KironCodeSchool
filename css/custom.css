@@ -1,0 +1,10 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+div.background-image-holder {
+	background-size: contain !important;
+	background-repeat: no-repeat !important;
+	background-color: red;
+}
+
+section.down_space{
+	padding: 0 0 96px 0;
+}
