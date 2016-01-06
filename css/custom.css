@@ -1,10 +1,43 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
-div.background-image-holder {
-	background-size: contain !important;
-	background-repeat: no-repeat !important;
-	background-color: red;
+
+
+#subscribe-button:hover {
+  background-color: #223f63;
+  color: #fff;
+}
+#subscribe-button {
+  background-color: #35649c;
+  border: 1px solid white;
+  max-width: 270px;
+  width: 90%;
+  font-size: 15px;
+  font-weight: bold;
 }
 
-section.down_space{
-	padding: 0 0 96px 0;
+.blue_back{
+  background-color: #2B5486;
 }
+
+.white_text{
+  color: #FFF;
+}
+.outer-title img{
+  margin: 0
+}
+
+img{
+   max-width: 100%;
+   height: auto;
+}
+
+.bg-white{
+    background:#ffffff !important;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.image-label{padding: 15px 5px }

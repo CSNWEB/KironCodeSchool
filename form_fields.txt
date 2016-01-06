@@ -1,0 +1,9 @@
+Name
+country
+city
+
+email
+phonenumber (add national prefix)
+
+do you own a computer?
+do you have access to internet connection?

@@ -7,7 +7,7 @@ var mr_firstSectionHeight,
     mr_floatingProjectSections,
     mr_scrollTop = 0;
 
-$(document).ready(function() { //variant-remove
+$(document).ready(function() { 
     "use strict";
 
     // Smooth scroll to inner links
@@ -808,9 +808,9 @@ $(document).ready(function() { //variant-remove
         } 
     }
 
-}); //variant-remove
+}); 
 
-$(window).load(function() { //variant-remove
+$(window).load(function() { 
     "use strict";
 
     // Initialize Masonry
@@ -862,7 +862,7 @@ $(window).load(function() { //variant-remove
     mr_firstSectionHeight = $('.main-container section:nth-of-type(1)').outerHeight(true);
 
 
-}); //variant-remove
+}); 
 
 function updateNav() {
 
