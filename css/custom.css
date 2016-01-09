@@ -6,6 +6,7 @@
   color: #fff;
 }
 #subscribe-button {
+  color: #fff;
   background-color: #35649c;
   border: 1px solid white;
   max-width: 270px;
@@ -21,6 +22,11 @@
 .white_text{
   color: #FFF;
 }
+
+.kblue_text{
+  color: #35649c;
+}
+
 .outer-title img{
   margin: 0
 }
@@ -38,6 +44,54 @@ img{
     display: inline-block;
     vertical-align: middle;
     float: none;
+  margin: auto;
 }
 
 .image-label{padding: 15px 5px }
+
+a { cursor: pointer; cursor: hand; }
+
+section#timeline{ background-color: #eee}
+
+.timeline li .timeline-panel {
+background-color: #fff
+}
+
+.timeline::before {
+background-color:#35649c
+}
+.intro-header{
+  position: relative;
+  box-sizing: margin-box;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #f8f8f8;
+  background: url(../img/heading/vent2.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.intro-super{
+  background-color: #fff;
+  opacity: 0.2;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.intro-message p {
+font-weight: 900;
+font-size: 18px
+}
+
+.intro-message h1 {
+  color: #444
+}

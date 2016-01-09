@@ -2661,9 +2661,9 @@ form iframe.mail-list-form {
     padding: 80px 48px;
   }
   .feature-5 .v-align-transform {
-    top: 0;
-    transform: none;
-    -webkit-transform: none;
+    top: 50%;
+    transform: translate3d(0, -50%, 0);
+    -webkit-transform: translate3d(0, -50%, 0);
   }
 }
 @media all and (max-width: 767px) {
@@ -3187,9 +3187,9 @@ img {
     padding: 80px 0;
   }
   .image-slider.height-70 .v-align-transform {
-    top: 0;
-    transform: none;
-    -webkit-transform: none;
+    top: 50%;
+    transform: translate3d(0, +50%, 0);
+    -webkit-transform: translate3d(0, +50%, 0);
   }
 }
 .flex-direction-nav a.flex-next {
