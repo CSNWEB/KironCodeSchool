@@ -8,7 +8,16 @@ var mr_firstSectionHeight,
     mr_scrollTop = 0;
 
 $(document).ready(function() {
+  height=$($($(".timeline-box")[1]).find("p")[1]).css("height");
+  $($($(".timeline-box")[2]).find("p")[1]).css("height", height);
+  $($($(".timeline-box")[3]).find("p")[1]).css("height", height);
+})
+
+
+$(document).ready(function() {
     "use strict";
+
+
 
     $(function() {
       $('a[href*=#]:not([href=#])').click(function() {

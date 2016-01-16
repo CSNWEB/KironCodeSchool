@@ -19,8 +19,21 @@
   background-color: #2B5486;
 }
 
+.background-blue{
+background-color: #2B5486;
+color: #fff;
+}
+
 .white_text{
   color: #FFF;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-black{
+  color: #000;
 }
 
 .kblue_text{
@@ -31,9 +44,31 @@
   margin: 0
 }
 
+.background-black{
+background-color: #000;
+color: #fff;
+}
+@media (min-width: 992px) {
+  .col-md-24{
+  width: 20%
+  }
+}
+
+@media (min-width: 768px){
+  .col-sm-24 {
+      \width: 20%;
+  }
+}
+
+
 img{
    max-width: 100%;
    height: auto;
+}
+
+.image-about{
+  max-width: 230px;
+  margin: auto
 }
 
 .bg-white{
@@ -51,15 +86,17 @@ img{
 
 a { cursor: pointer; cursor: hand; }
 
-section#timeline{ background-color: #eee}
+section#timeline{ background-color: #fff}
 
-.timeline li .timeline-panel {
-background-color: #fff
-}
 
 .timeline::before {
-background-color:#35649c
+  background-color:#35649c;
+  margin-top: 20px;
+  margin-bottom: 150px;
 }
+
+/* Main section style */
+
 .intro-header{
   position: relative;
   box-sizing: margin-box;
@@ -94,4 +131,70 @@ font-size: 18px
 
 .intro-message h1 {
   color: #444
+}
+
+/* Timeline section style */
+
+.timeline{
+  min-width: 300px
+}
+
+.timeline-title{
+  margin-bottom: 10px;
+}
+
+.timeline-head{
+
+}
+
+.timeline-text{
+  padding:  5% 5%;
+}
+.path_time{
+  height: 30px;
+  line-height: 30px;
+  margin-bottom: 10px !important
+}
+
+.timeline-logo{
+  border-radius: 50%;
+  padding: 10px;
+  width: 120px;
+  height: 120px;
+  margin: auto;
+  margin-bottom: 10px
+}
+
+.timeline-logo-icon{
+  background-color: white !important;
+  background-size: contain !important;
+  background-size: 80px 80px !important;
+}
+
+.rocket{
+  background: url(../img/rocket.svg) no-repeat center center;
+}
+
+
+
+.class{
+  background: url(../img/class.svg) no-repeat center center;
+}
+
+.project{
+  background: url(../img/project.svg) no-repeat center center;
+}
+
+.intership{
+  background: url(../img/intership.svg) no-repeat center center;
+}
+
+.job{
+  background: url(../img/job.svg) no-repeat center center;
+}
+
+.timeline-box{
+  margin: auto;
+  margin-top: 20px;
+  max-width: 300px;
 }
