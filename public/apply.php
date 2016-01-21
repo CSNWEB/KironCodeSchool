@@ -26,8 +26,8 @@
         <div class="container-clearfix">
           <div class="row">
             <div class="col-sm-12 col-lg-8 col-lg-offset-2 col-xs-12 col-lg-8 col-lg-offset-2 text-center">
-              <div style="margin-top:10px;margin-bottom:20px;">
-                <h3 class="uppercase mb0" id="apply" style="margin-top:50px;color:#000">Application Form</h3>
+              <div style="margin-top:100px;margin-bottom:20px;">
+                <h3 class="uppercase mb0" id="apply" style="color:#000;">Application Form</h3>
                 <iframe id="application_form" style="height:1700px;" src="https://docs.google.com/forms/d/1_nU4PcStNWn2JFkSv0xUOR453m4GDe4-Qme0NFLfLWo/viewform?usp=send_form" width="760" frameborder="0"
                 marginheight="0" marginwidth="0">Loading...</iframe>
               </div>
