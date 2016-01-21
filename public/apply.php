@@ -19,32 +19,7 @@
   </head>
 
   <body class="boxed-layout" >
-    <div class="nav-container"  style="min-height: 70px;">
-      <nav class="absolute" style="background-color: white; position:fixed; border-top: 2px solid white">
-
-        <div class="nav-bar text-center">
-          <div class="col-md-2 col-sm-12 text-center">
-            <a href="/index">
-              <img alt="logo" class="image-xxs" src="img/logo.png">
-            </a>
-          </div>
-
-          <div class="right" style="margin-right: 50px">
-            <ul class="menu inline-block pull-right">
-              <li><a href="index#theProgram" id="nav-options">The Pogram</a></li>
-              <li><a href="index#timeline" id="nav-options">Your Path</a></li>
-              <li><a href="" id="nav-options">Apply</a></li>
-              <li><a href="index#Partners" id="nav-options">Partners</a></li>
-              <li><a href="index#Contact" id="nav-options">Contact</a></ul>
-            </ul>
-          </div>
-        </div>
-
-        <div class="module widget-handle mobile-toggle right visible-sm visible-xs absolute-xs">
-          <i class="ti-menu"></i>
-        </div>
-      </nav>
-    </div>
+    <?php include 'navbar.html' ?>
 
     <div class="main-container">
       <section class="cover fullerscreen bg-secondary">
