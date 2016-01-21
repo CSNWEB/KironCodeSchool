@@ -19,7 +19,7 @@
   </head>
 
   <body class="boxed-layout" >
-    <?php include 'navbar.html' ?>
+    <?php include('navbar.html'); ?>
 
     <div class="main-container">
       <section class="cover fullerscreen bg-secondary">
