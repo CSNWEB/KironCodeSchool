@@ -21,7 +21,7 @@
 
 
   <body class="boxed-layout">
-    <?php inlude('navbar.html'); ?>
+    <?php include('navbar.html'); ?>
     <div class="intro-header">
       <div class="intro-super"></div>
       <div class="container">
