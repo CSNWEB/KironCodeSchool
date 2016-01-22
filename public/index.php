@@ -9,11 +9,10 @@
     <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="css/timeline.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
-    <link href="http://fonts.googleapis.com/css?family=Oswald:300,400,600,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,600,700" rel="stylesheet" type="text/css">
     <link href="css/font-oswald.css" rel="stylesheet" type="text/css">
 
   </head>
@@ -32,7 +31,12 @@
             <div class="intro-message">
               <h1 class="mb-xs-16 ">Kiron CodeSchool: Bootstrap your new life now</h1>
               <p class="lead mb40">We help refugees integration by making them into successful software developers</p>
-              <a id="subscribe-button" class="btn btn-lg" href="apply.html"> Apply </a>
+              <div class="row">
+                <a id="subscribe-button" class="btn btn-lg" href="apply.html"> Apply </a>
+              </div>
+              <div class="row">
+                <a id="subscribe-button" class="btn btn-lg" href="mailto:codeschool@kiron.university"> Donate your old laptop </a>
+              </div>
             </div>
           </div>
         </div>
@@ -101,7 +105,7 @@
           <div class="row">
             <div class="col-md-2 col-md-24 col-sm-6 col-xm-12">
               <div class="image-tile outer-title text-center">
-                <a href="mailto:pedro.favuzzi@kiron.university">
+                <a href="mailto:">
                   <div class="image-about">
                     <img alt="Pic" src="img/pedro.jpg">
                     <div class="title mb16 bg-white image-label">
@@ -115,7 +119,7 @@
             </div>
             <div class="col-md-2 col-md-24 col-sm-6 col-xm-12">
               <div class="image-tile outer-title text-center">
-                <a href="mailto:pedro.favuzzi@kiron.university">
+                <a href="mailto:codeschool@kiron.university">
                   <div class="image-about">
                     <img alt="Pic" src="img/juan.jpg">
                     <div class="title mb16 bg-white image-label">
@@ -129,7 +133,7 @@
             </div>
             <div class="col-md-2 col-md-24 col-sm-6 col-xm-12">
               <div class="image-tile outer-title text-center">
-                <a href="mailto:pedro.favuzzi@kiron.university">
+                <a href="mailto:codeschool@kiron.university">
                   <div class="image-about">
                     <img alt="Pic" src="img/alejandro.jpg">
                     <div class="title mb16 bg-white image-label">
@@ -143,7 +147,7 @@
             </div>
             <div class="col-md-2 col-md-24 col-sm-6 col-xm-12">
               <div class="image-tile outer-title text-center">
-                <a href="mailto:pedro.favuzzi@kiron.university">
+                <a href="mailto:codeschool@kiron.university">
                   <div class="image-about">
                     <img alt="Pic" src="img/acacia.jpg">
                     <div class="title mb16 bg-white image-label">
@@ -157,7 +161,7 @@
             </div>
             <div class="col-md-2 col-md-24 col-sm-6 col-xm-12">
               <div class="image-tile outer-title text-center">
-                <a href="mailto:pedro.favuzzi@kiron.university">
+                <a href="mailto:codeschool@kiron.university">
                   <div class="image-about">
                     <img alt="Pic" src="img/beatriz.jpg">
                     <div class="title mb16 bg-white image-label">
@@ -273,7 +277,7 @@
           <h3 class="uppercase white_text">Get In Touch!</h3>
           <h4 class="white_text" style="margin-bottom: 0">
             If you whant to become a metor, volunteer or donate laptops, space or wifi contact us at</h4>
-          <a style="font-size: 16px" href: "mailto:pedro.favuzzi@kiron.university">pedro.favuzzi@kiron.university</a>
+          <a style="font-size: 16px" href: "mailto:codeschool@kiron.university">codeschool@kiron.university</a>
           <h4></h4>
           <h4 class="white_text">
             If you want to donate:

@@ -7,7 +7,7 @@ Getting Started
 ----------------
 To begin with, clone the repository:
 
-    git clone git@github.com:kironuniversity/kironventures
+    git clone git@github.com:kironuniversity/kironcodeschool
 
 In this directory you will see the public directory, which houses the website.
 
@@ -40,10 +40,10 @@ Making Updates to the Site
 -------
 The standard procedure for committing to GitHub should be used. There is at the moment only one branch, the master branch. If you aren't yet familiar with Git, have a quick look. For this simple project, you will probably only need clone, pull, add, status, commit and push.
 
-sThere is no auto-deploy for this site currently. Accordingly, the way to update the site is to push your changes and tell Adam or Juan that you would like to make an update. What one of us will do is the following:
+There is no auto-deploy for this site currently. Accordingly, the way to update the site is to push your changes and tell Adam or Juan that you would like to make an update. What one of us will do is the following:
 
     ssh forge@46.101.223.64
-    cd kironventures.com/kironventures
+    cd codeschool.kiron.university/codeschool
     git pull
     rsync -av public/ ../public/.
 
