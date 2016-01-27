@@ -13,8 +13,16 @@ var mr_firstSectionHeight,
 $(document).ready(function() {
     "use strict";
 
-
-
+  $(function() {
+    var imgs   = $("#Partners").find("img")
+    var height = imgs.eq(0).height()
+    $(imgs.splice(1)).each( function(ind, ele) {
+      var obj = $(ele)
+      console.log( obj, height, obj.height())
+      obj.css("marginTop", (height - obj.height())/4 )
+      obj.css("marginBottom", (height - obj.height())/2 )
+    })
+  })
     $(function() {
       $('a[href*=#]:not([href=#])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
