@@ -18,7 +18,6 @@
     <meta name="keywords" content="startup,incubator,investment,refugee,help,found,founder"/>
     <meta name="description" content="Berlin based Startup incubator. Funding driven, innovative entrepreneurs creating solutions for the refugee crisis"/>
 
-    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
     <meta property="og:site_name"content="Kiron ChodeSchool" />
     <meta property="og:url" content="http://codeschol.kiron.university">
     <meta property="og:type" content="website">
