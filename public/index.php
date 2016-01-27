@@ -352,7 +352,7 @@
             <div class="col-md-2 col-xm-12" style="height: inherit">
               <div class="image-tile outer-title text-center bg-white vcenter" style="margin: auto">
                 <a href="https://www.udacity.com" target="_blank">
-                  <img alt="Pic" src="img/udacity_iOs.jpg" style="max-width: 300px">
+                  <img alt="Pic" src="img/udacity_ios.jpg" style="max-width: 300px">
                 </a>
                 <p class="mb0"> </p>
               </div>
