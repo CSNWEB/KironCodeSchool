@@ -17,6 +17,15 @@
     <meta name="keywords" content="Education,Integration,refugee,help,job"/>
     <meta name="description" content="Kiron ChodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs."/>
 <!-- asdf -->
+<meta property="og:title" content="AddThis Tour" />
+<meta property="og:description" content="Watch the AddThis Tour video." />
+<meta property="og:image" content="http://i2.ytimg.com/vi/1F7DKyFt5pY/default.jpg" />
+<meta property="og:video" content="http://www.youtube.com/v/1F7DKyFt5pY&fs=1" />
+<meta property="og:video:width" content="560" />
+<meta property="og:video:height" content="340" />
+<meta property="og:video:type" content="application/x-shockwave-flash" />
+<!--  -->
+
     <meta property="og:type"      content="website">
     <meta property="og:title"     content="Teaching Software-Development for Integration" />
     <meta property="og:site_name" content="Kiron ChodeSchool" />
