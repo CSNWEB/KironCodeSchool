@@ -17,10 +17,11 @@
     <meta name="keywords" content="Education,Integration,refugee,help,job"/>
     <meta name="description" content="Kiron ChodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs."/>
 
+    <meta property="og:title"content="Teaching Software-Development for Integration" />
     <meta property="og:site_name"content="Kiron ChodeSchool" />
     <meta property="og:url" content="http://www.codeschool.kiron.university">
     <meta property="og:type" content="website">
-    <meta property="og:title"content="Teaching Software-Development for Integration" />
+
     <meta property="og:image"content="http://analogphotographyberlin.com/img/home22-fb.jpg" />
     <meta property="og:description"content="Kiron ChodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs.">
 
