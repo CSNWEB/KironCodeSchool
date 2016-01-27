@@ -306,7 +306,7 @@
         </div>
       </section>
 
-      <section id="Partners" class="down_space">
+      <section id="Courses" class="down_space">
         <div class="container">
           <div class="row">
             <div class="col-sm-12 text-center">

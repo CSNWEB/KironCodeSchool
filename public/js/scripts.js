@@ -14,7 +14,7 @@ $(document).ready(function() {
     "use strict";
 
   $(function() {
-    var imgs   = $("#Partners").find("img")
+    var imgs   = $("#Courses").find("img")
     var height = imgs.eq(0).height()
     $(imgs.splice(1)).each( function(ind, ele) {
       var obj = $(ele)
