@@ -14,16 +14,15 @@
     <link rel="icon" type="image/png" href="/img/favicon/favicon-32x32.png" sizes="32x32">
     <link rel="shortcut icon" href="/img/favicon/favicon.ico">
 
-    <meta name="author" content="Adam Roe"/>
-    <meta name="keywords" content="startup,incubator,investment,refugee,help,found,founder"/>
-    <meta name="description" content="Berlin based Startup incubator. Funding driven, innovative entrepreneurs creating solutions for the refugee crisis"/>
+    <meta name="keywords" content="Education,Integration,refugee,help,job"/>
+    <meta name="description" content="Kiron ChodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs."/>
 
     <meta property="og:site_name"content="Kiron ChodeSchool" />
-    <meta property="og:url" content="http://codeschol.kiron.university">
+    <meta property="og:url" content="http://www.codeschool.kiron.university">
     <meta property="og:type" content="website">
     <meta property="og:title"content="Teaching Software-Development for Integration" />
     <meta property="og:image"content="http://analogphotographyberlin.com/img/home22-fb.jpg" />
-    <meta property="og:description"content="Kiron ChodeSchool is a Brussels based start-up education program, we work with companies to educate them in solftware development and helping them find jobs.">
+    <meta property="og:description"content="Kiron ChodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs.">
 
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
     <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
