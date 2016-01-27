@@ -310,7 +310,7 @@
         <div class="container">
           <div class="row">
             <div class="col-sm-12 text-center">
-              <h4 class="uppercase mb16">Courses</h4>
+              <h4 class="uppercase mb16">Courses!</h4>
               <p class="lead mb64">
               </p>
             </div>
