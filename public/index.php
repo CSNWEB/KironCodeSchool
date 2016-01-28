@@ -16,7 +16,7 @@
 
     <meta name="keywords" content="Education,Integration,refugee,help,job"/>
     <meta name="description" content="Kiron ChodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs."/>
-
+    <!--  asdf -->
     <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
     <meta property="og:type"      content="website">
     <meta property="og:title"     content="Teaching Software-Development for Integration" />
@@ -26,10 +26,10 @@
     <meta property="og:description" content="Kiron ChodeSchool is a Brussels based start-up professional education program. We work with companies to facilitate the integration of refugees by training them to become sucessfull software developers.">
 
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
-    <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/themify-icons.css"    rel="stylesheet" type="text/css" media="all" />
+    <link href="css/bootstrap.css"        rel="stylesheet" type="text/css" media="all" />
+    <link href="css/theme.css"            rel="stylesheet" type="text/css" media="all" />
+    <link href="css/custom.css"           rel="stylesheet" type="text/css" media="all" />
 
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,600,700" rel="stylesheet" type="text/css">
