@@ -295,7 +295,7 @@
           </h3>
           <h3 class="uppercase white_text">Get In Touch!</h3>
           <h4 class="white_text" style="margin-bottom: 0">
-            If you whant to become a metor, volunteer or donate laptops, space or wifi contact us at</h4>
+            If you want to become a mentor, volunteer or donate laptops, space or WiFi contact us at</h4>
           <a style="font-size: 16px" href: "mailto:codeschool@kiron.university">codeschool@kiron.university</a>
           <h4></h4>
           <h4 class="white_text">
