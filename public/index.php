@@ -62,7 +62,7 @@
     <?php include('navbar.html'); ?>
 
 
-    <div class="container" style="position: asbsolute; top: 50px; left: 0">
+    <div class="" style="position: asbsolute; top: 50px; left: 0">
       <div class="row">
         <div  class="fb-like" data-share="true" data-width="450" data-show-faces="true" data-layout="box_count"> </div>
       </div>
