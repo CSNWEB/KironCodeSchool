@@ -75,7 +75,7 @@
                 <a id="subscribe-button" class="btn btn-lg" href="apply.html"> Apply </a>
               </div>
               <div class="row">
-                <div  class="fb-like" data-share="true" data-width="450" data-show-faces="true"> </div>
+                <div  class="fb-like" data-share="true" data-width="450" data-show-faces="true" data-layout="box_count"> </div>
               </div>
               <div class="row">
                 <a id="subscribe-button" class="btn btn-lg" href="mailto:codeschool@kiron.university"> Donate your old laptop </a>
@@ -85,12 +85,6 @@
         </div>
       </div>
     </div>
-
-    <ul class="social">
-      <li><a href="https://twitter.com/share?url=URLTOSHARE" class="tw" title="Tweet this page!"><i class="icon-twitter"></i></a></li>
-    	<li><a href="http://www.facebook.com/sharer.php?u=URLTOSHARE&amp;t=TITLE" class="fb" title="Share this page!"><i class="icon-facebook"></i></a></li>
-    	<li><a href="http://plus.google.com/share?url=URLTOSHARE" class="gp" title="Share this page!"><i class="icon-google-plus"></i></a></li>
-    </ul>
 
     <div class="main-container">
 
