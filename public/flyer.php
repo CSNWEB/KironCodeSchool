@@ -15,14 +15,14 @@
     <link rel="shortcut icon" href="/img/favicon/favicon.ico">
 
     <meta name="keywords" content="Education,Integration,refugee,help,job"/>
-    <meta name="description" content="Kiron ChodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs."/>
+    <meta name="description" content="Kiron CodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs."/>
 
     <meta property="og:type"      content="website">
     <meta property="og:title"     content="Teaching Software-Development for Integration" />
-    <meta property="og:site_name" content="Kiron ChodeSchool" />
+    <meta property="og:site_name" content="Kiron CodeSchool" />
     <meta property="og:url"       content="https://codeschool.kiron.university">
     <meta property="og:image"     content="https://codeschool.kiron.university/img/heading/vent2.jpg?t=12345?" />
-    <meta property="og:description" content="Kiron ChodeSchool is a Brussels based start-up professional education program. We work with companies to facilitate the integration of refugees by training them to become sucessfull software developers.">
+    <meta property="og:description" content="Kiron CodeSchool is a Brussels based start-up professional education program. We work with companies to facilitate the integration of refugees by training them to become sucessfull software developers.">
   </head>
 
 
