@@ -17,13 +17,13 @@
     <meta name="keywords" content="Education,Integration,refugee,help,job"/>
     <meta name="description" content="Kiron ChodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs."/>
 
-    
+
     <meta property="og:type"      content="website">
     <meta property="og:title"     content="Teaching Software-Development for Integration" />
     <meta property="og:site_name" content="Kiron ChodeSchool" />
     <meta property="og:url"       content="https://codeschool.kiron.university">
     <meta property="og:image"     content="https://codeschool.kiron.university/img/heading/vent2.jpg?t=12345?" />
-    <meta property="og:description" content="Kiron ChodeSchool is a Brussels based start-up professional education program. We work with companies to facilitate the integration of refugees by training them to become sucessfull software developers.">
+    <meta property="og:description" content="Kiron ChodeSchool is a Brussels based start-up professional education program that helps refugees integration by transforming them into successful software developers">
 
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
     <link href="css/themify-icons.css"    rel="stylesheet" type="text/css" media="all" />
@@ -69,9 +69,12 @@
           <div class="col-lg-12">
             <div class="intro-message">
               <h1 class="mb-xs-16 ">Kiron CodeSchool: Bootstrap your new life now</h1>
-              <p class="lead mb40">We help refugees integration by making them into successful software developers</p>
+              <p class="lead mb40">We help refugees integration by transforming them into successful software developers</p>
               <div class="row">
                 <a id="subscribe-button" class="btn btn-lg" href="apply.html"> Apply </a>
+              </div>
+              <div class="row">
+                <div  class="fb-like" data-share="true" data-width="450" data-show-faces="true"> </div>
               </div>
               <div class="row">
                 <a id="subscribe-button" class="btn btn-lg" href="mailto:codeschool@kiron.university"> Donate your old laptop </a>
