@@ -9,10 +9,18 @@ var mr_firstSectionHeight,
 
 
 
+    $(document).ready();
+
 
 $(document).ready(function() {
     "use strict";
 
+  //vertical floating share
+  $(function() {
+    $('.social a').tooltip({placement: "right", container: 'body'});
+  })
+
+  // align courses icons
   $(function() {
     var imgs   = $("#Courses").find("img")
     var height = imgs.eq(0).height()
@@ -23,6 +31,8 @@ $(document).ready(function() {
       obj.css("marginBottom", (height - obj.height())/2 )
     })
   })
+
+    // smooth page change (?)
     $(function() {
       $('a[href*=#]:not([href=#])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {

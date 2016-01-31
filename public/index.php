@@ -86,15 +86,11 @@
       </div>
     </div>
 
-    <div class="container">
-        <div class="col-md-3 jumbotron vcenter">
-            <i class="fa fa-share"></i>
-            Share this visualization via the Buttons Docked to the left.
-        </div>
-        <div class="col-md-9">
-            <img class="pull-right" src="/Content/images/shared/misc/population.png" />
-        </div>
-    </div>
+    <ul class="social">
+      <li><a href="https://twitter.com/share?url=URLTOSHARE" class="tw" title="Tweet this page!"><i class="icon-twitter"></i></a></li>
+    	<li><a href="http://www.facebook.com/sharer.php?u=URLTOSHARE&amp;t=TITLE" class="fb" title="Share this page!"><i class="icon-facebook"></i></a></li>
+    	<li><a href="http://plus.google.com/share?url=URLTOSHARE" class="gp" title="Share this page!"><i class="icon-google-plus"></i></a></li>
+    </ul>
 
     <div class="main-container">
 
