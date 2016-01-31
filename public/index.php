@@ -17,7 +17,7 @@
     <meta name="keywords" content="Education,Integration,refugee,help,job"/>
     <meta name="description" content="Kiron ChodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs."/>
 
-    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    
     <meta property="og:type"      content="website">
     <meta property="og:title"     content="Teaching Software-Development for Integration" />
     <meta property="og:site_name" content="Kiron ChodeSchool" />
@@ -81,6 +81,7 @@
         </div>
       </div>
     </div>
+
     <div class="main-container">
 
       <section id="theProgram" class="pb64 pb-xs-40">
