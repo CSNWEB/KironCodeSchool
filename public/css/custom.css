@@ -207,3 +207,13 @@ margin-top: 20px;
 margin-bottom: 20px;
 font-size: 30px;
 }
+
+/* facebook like */
+
+.fb-like {
+    transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+}
