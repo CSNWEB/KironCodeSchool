@@ -29,6 +29,7 @@
     <link href="css/themify-icons.css"    rel="stylesheet" type="text/css" media="all" />
     <link href="css/bootstrap.css"        rel="stylesheet" type="text/css" media="all" />
     <link href="css/theme.css"            rel="stylesheet" type="text/css" media="all" />
+    <link href="css/vertical_share.css"   rel="stylesheet" type="text/css" media="all" />
     <link href="css/custom.css"           rel="stylesheet" type="text/css" media="all" />
 
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
@@ -83,6 +84,16 @@
           </div>
         </div>
       </div>
+    </div>
+
+    <div class="container">
+        <div class="col-md-3 jumbotron vcenter">
+            <i class="fa fa-share"></i>
+            Share this visualization via the Buttons Docked to the left.
+        </div>
+        <div class="col-md-9">
+            <img class="pull-right" src="/Content/images/shared/misc/population.png" />
+        </div>
     </div>
 
     <div class="main-container">
