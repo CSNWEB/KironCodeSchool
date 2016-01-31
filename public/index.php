@@ -23,7 +23,7 @@
     <meta property="og:site_name" content="Kiron ChodeSchool" />
     <meta property="og:url"       content="https://codeschool.kiron.university">
     <meta property="og:image"     content="https://codeschool.kiron.university/img/heading/vent2.jpg?t=12345?" />
-    <meta property="og:description" content="Kiron ChodeSchool is a Brussels based start-up professional education program that helps refugees integration by transforming them into successful software developers">
+    <meta property="og:description" content="Kiron ChodeSchool is a professional education program that helps refugees integration by transforming them into successful software developers">
 
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
     <link href="css/themify-icons.css"    rel="stylesheet" type="text/css" media="all" />
