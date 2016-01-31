@@ -22,7 +22,7 @@
     <meta property="og:title"     content="Teaching Software-Development for Integration" />
     <meta property="og:site_name" content="Kiron ChodeSchool" />
     <meta property="og:url"       content="https://codeschool.kiron.university">
-    <meta property="og:image"     content="https://codeschool.kiron.university/img/fb_1.svg?t=12345?" />
+    <meta property="og:image"     content="https://codeschool.kiron.university/img/fb_1.png?t=12345?" />
     <meta property="fb:app_id"     content="937824876298597"/>
     <meta property="og:description" content="Kiron ChodeSchool is a professional education program that helps refugees integration by transforming them into successful software developers">
 
