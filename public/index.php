@@ -62,6 +62,11 @@
     <?php include('navbar.html'); ?>
 
 
+    <div class="container" style="position: asbsolute; top: 50px; left: 0">
+      <div class="row">
+        <div  class="fb-like" data-share="true" data-width="450" data-show-faces="true" data-layout="box_count"> </div>
+      </div>
+    </div>
 
     <div class="intro-header">
       <div class="intro-super"></div>
@@ -73,9 +78,6 @@
               <p class="lead mb40">We help refugees integration by transforming them into successful software developers</p>
               <div class="row">
                 <a id="subscribe-button" class="btn btn-lg" href="apply.html"> Apply </a>
-              </div>
-              <div class="row">
-                <div  class="fb-like" data-share="true" data-width="450" data-show-faces="true" data-layout="box_count"> </div>
               </div>
               <div class="row">
                 <a id="subscribe-button" class="btn btn-lg" href="mailto:codeschool@kiron.university"> Donate your old laptop </a>
