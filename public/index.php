@@ -40,8 +40,6 @@
 
 
   <body class="boxed-layout">
-    <?php include('navbar.html'); ?>
-
     <script>
       window.fbAsyncInit = function() {
         FB.init({
@@ -59,6 +57,10 @@
          fjs.parentNode.insertBefore(js, fjs);
        }(document, 'script', 'facebook-jssdk'));
     </script>
+
+    <?php include('navbar.html'); ?>
+
+
 
     <div class="intro-header">
       <div class="intro-super"></div>
