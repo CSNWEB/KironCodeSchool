@@ -374,7 +374,7 @@
                 <p class="mb0"> </p>
               </div>
             </div>
-            <div class="col-md-2 col-xm-12">
+            <div class="col-md-2 col-xm-12" style="height: inherit">
               <div class="image-tile outer-title text-center bg-white">
                 <a href="https://www.udacity.com" target="_blank">
                   <img alt="Pic" src="img/udacity_ios.jpg" style="max-width: 300px">
