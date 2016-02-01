@@ -15,16 +15,16 @@
     <link rel="shortcut icon" href="/img/favicon/favicon.ico">
 
     <meta name="keywords" content="Education,Integration,refugee,help,job"/>
-    <meta name="description" content="Kiron CodeSchool is a Brussels based start-up education program, we work with companies to educate refugees in solftware development and helping them find jobs."/>
+    <meta name="description" content="Kiron CodeSchool is a Brussels based startup education program. We work with companies to educate refugees in software development and help them find jobs."/>
 
 
     <meta property="og:type"      content="website">
-    <meta property="og:title"     content="Teaching Software-Development for Integration" />
+    <meta property="og:title"     content="Teaching Software Development for Integration" />
     <meta property="og:site_name" content="Kiron CodeSchool" />
     <meta property="og:url"       content="https://codeschool.kiron.university">
     <meta property="og:image"     content="https://codeschool.kiron.university/img/fb_1.png?t=12345?" />
     <meta property="fb:app_id"     content="937824876298597"/>
-    <meta property="og:description" content="Kiron CodeSchool is a professional education program that helps refugees integration by transforming them into successful software developers">
+    <meta property="og:description" content="Kiron CodeSchool is a professional education program that helps refugees' integration by transforming them into successful software developers">
 
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
     <link href="css/themify-icons.css"    rel="stylesheet" type="text/css" media="all" />
@@ -74,7 +74,7 @@
           <div class="col-lg-12">
             <div class="intro-message">
               <h1 class="mb-xs-16 ">Kiron CodeSchool: Bootstrap your new life now</h1>
-              <p class="lead mb40">We help refugees integration by transforming them into successful software developers</p>
+              <p class="lead mb40">We help refugees' integration by transforming them into successful software developers</p>
               <div class="row">
                 <a id="subscribe-button" class="btn btn-lg" href="apply.html"> Apply </a>
               </div>
@@ -89,8 +89,8 @@
 
     <div class="main-container">
 
-      <section id="theProgram" class="pb64 pb-xs-40">
-        <div id="theProgram" class="container">
+      <section id="The Program" class="pb64 pb-xs-40">
+        <div id="The Program" class="container">
           <div class="row">
             <div class="col-sm-12 text-center">
               <h4 class="uppercase mb16">The Program</h4>
@@ -106,7 +106,7 @@
                   <h5 class="uppercase">Learn</h5>
                 </div>
                 <p>
-                  By participating you will be trained by our partners Udacity and CareerFoundry in state of the art programming curricula with one-on-one mentoring
+                  By participating you will be trained by our partners Udacity and CareerFoundry in state of the art programming curricula with one-on-one mentoring.
                 </p>
               </div>
 
@@ -239,7 +239,7 @@
                   <p class="path_time"></p>
                 </div>
                 <p class="text-justify p-x-1 timeline-text">
-                  By applying we will assess your experience and needs. We will find the best way to introduce you into the program: like which track better suits your and how can you take advantage of the large range of services already offered to Kiron students.
+                  By applying we will assess your experience and needs. We will find the best way to introduce you into the program: like which track better suits you and how can you take advantage of the large range of services already offered to Kiron students.
                 </p>
               </div>
             </div>
@@ -254,7 +254,7 @@
                   </p>
                 </div>
                 <p class="text-justify timeline-text">
-                  You will follow the courses online and meet with our mentors a few times per week to keep you motivated and speed up your leaning. Studying online allows you to proceed as fast as you like and to tailor the program around you and not other way around.
+                  You will follow the courses online and meet with our mentors a few times per week to keep you motivated and speed up your learning. Studying online allows you to proceed at your own pace and to tailor the program around you and not other way around.
                 </p>
               </div>
 
@@ -269,7 +269,7 @@
                   </p>
                 </div>
                 <p class="text-justify timeline-text">
-                  Congratulations, now you know how to code. But there still some way to go! It is time to prove what you have learn and to sharpen your skills by developing an and or website alone or with others. If you like it you can even enter <a href="http://www.kironventures.com" target="_blank">KironVentures</a> and start your own company.
+                  Congratulations, now you know how to code. But there is still some way to go! It is time to prove what you have learned and to sharpen your skills by developing an app or website alone or with others. If you like it you can even enter <a href="http://www.kironventures.com" target="_blank">KironVentures</a> and start your own company.
                 </p>
               </div>
 
@@ -278,13 +278,13 @@
               <div class="feature feature-2 filled text-center timeline-box">
                 <div class="text-center timeline-head">
                   <div class="timeline-logo intership timeline-logo-icon"></div>
-                  <h5 class="timeline-title ">Intership</h5>
+                  <h5 class="timeline-title ">Internship</h5>
                   <p class="path_time text-center background-blue">
                     2 months
                   </p>
                 </div>
                 <p class="text-justify timeline-text">
-                  It is time to face the real world and to become experienced developers. What better environment that in real companies and with experienced professionals? This phase allows you to do an internship in a growing startup or a mature company we will select for you.
+                  It is time to face the real world and to become experienced developers. What better environment than in real companies and with experienced professionals? This phase allows you to do an internship in a growing startup or a mature company we select for you.
                 </p>
               </div>
 
@@ -297,7 +297,7 @@
                   <p class="path_time"></p>
                 </div>
                 <p class="text-justify timeline-text">
-                  Now we say good bye. Many of you might be offered positions where you did your internships. For the rest we will work hard with you to find you a job that will make you happy and secure for the days to come.
+                  Now we say goodbye. Many of you might be offered positions where you did your internships. For the rest we will work hard with you to find you a job that will make you happy and secure for the days to come.
                 </p>
               </div>
 
