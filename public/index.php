@@ -76,7 +76,7 @@
               <h1 class="mb-xs-16 ">Kiron CodeSchool: Bootstrap your new life now</h1>
               <p class="lead mb40">We help refugees' integration by transforming them into successful software developers</p>
               <div class="row">
-                <a id="subscribe-button" class="btn btn-lg" href="apply.html"> Apply </a>
+                <a id="subscribe-button" class="btn btn-lg" href="/apply"> Apply </a>
               </div>
               <div class="row">
                 <a id="subscribe-button" class="btn btn-lg" href="mailto:codeschool@kiron.university"> Donate your old laptop </a>
