@@ -1,11 +1,12 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
 
 
-#subscribe-button:hover {
+.subscribe-button:hover {
   background-color: #223f63;
   color: #fff;
 }
-#subscribe-button {
+
+.subscribe-button {
   color: #fff;
   background-color: #35649c;
   border: 1px solid white;
@@ -13,6 +14,17 @@
   width: 90%;
   font-size: 15px;
   font-weight: bold;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#donate-button::before {
+  content: "Donate your old laptop"
+}
+
+#donate-button:hover::before {
+  font-size: 12px;
+  content: "CodeSchool@kiron.university"
 }
 
 .blue_back{

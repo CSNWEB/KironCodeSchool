@@ -28,7 +28,7 @@
 
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
     <link href="css/themify-icons.css"    rel="stylesheet" type="text/css" media="all" />
-    <link href="css/bootstrap.css"        rel="stylesheet" type="text/css" media="all" />
+    <link href="css/bootstrap.min.css"        rel="stylesheet" type="text/css" media="all" />
     <link href="css/theme.css"            rel="stylesheet" type="text/css" media="all" />
     <link href="css/share.css"            rel="stylesheet" type="text/css" media="all" />
     <link href="css/custom.css"           rel="stylesheet" type="text/css" media="all" />
@@ -76,10 +76,10 @@
               <h1 class="mb-xs-16 ">Kiron CodeSchool: Bootstrap your new life now</h1>
               <p class="lead mb40">We help refugees' integration by transforming them into successful software developers</p>
               <div class="row">
-                <a id="subscribe-button" class="btn btn-lg" href="/apply"> Apply </a>
+                <a id="" class="btn btn-lg subscribe-button text-center" href="/apply"> Apply </a>
               </div>
               <div class="row">
-                <a id="subscribe-button" class="btn btn-lg" href="mailto:codeschool@kiron.university"> Donate your old laptop </a>
+                <a id="donate-button" class="btn btn-lg subscribe-button text-center" href="mailto:codeschool@kiron.university"> </a>
               </div>
             </div>
           </div>
