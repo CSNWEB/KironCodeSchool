@@ -377,11 +377,9 @@ $(document).ready(
   function() {
     var imgs   = $("#Courses").find(".container .row-fluid > div")
     var height = imgs.eq(0).height()
-    console.log( imgs.eq(0), "asdf", height)
 
     $(imgs.splice(1)).each( function(ind, ele) {
       var obj = $(ele)
-      console.log( obj, "asdf", height, "qwer", obj.height())
       obj.css("marginTop", (height - obj.height())/4 )
       obj.css("marginBottom", (height - obj.height())/2 )
     })
