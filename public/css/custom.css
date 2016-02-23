@@ -239,3 +239,36 @@ font-size: 30px;
     -o-transform: scale(1.5);
     -moz-transform: scale(1.5);
 }
+
+/* effects */
+
+.morph {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+
+.morph:hover {
+  -webkit-transform: rotate(360deg);
+     -moz-transform: rotate(360deg);
+       -o-transform: rotate(360deg);
+      -ms-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+
+.grayscale{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.grayscale-50{
+  -webkit-filter: grayscale(50%);
+  filter: grayscale(50%);
+}
+
+.ungrayscale:hover{
+  filter: none;
+  -webkit-filter: grayscale(0%);
+}

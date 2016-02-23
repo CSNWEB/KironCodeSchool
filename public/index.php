@@ -26,11 +26,10 @@
     <meta property="fb:app_id"    content="937824876298597"/>
     <meta property="og:description" content="Kiron CodeSchool is a professional education program that helps refugees' integration by transforming them into successful software developers">
 
-    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
-    <link href="css/themify-icons.css"    rel="stylesheet" type="text/css" media="all" />
+    <link href="css/themify-icons.css"                rel="stylesheet" type="text/css" media="all" />
     <link href="css/bootstrap.min.css?version=asdf"    rel="stylesheet" type="text/css" media="all" />
-    <link href="css/theme.css?version=asdf"            rel="stylesheet" type="text/css" media="all" />
-    <link href="css/share.css"            rel="stylesheet" type="text/css" media="all" />
+    <link href="css/theme.css?version=asdf’"            rel="stylesheet" type="text/css" media="all" />
+    <link href="css/share.css"                         rel="stylesheet" type="text/css" media="all" />
     <link href="css/custom.css?version=asdf"          rel="stylesheet" type="text/css" media="all" />
 
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
@@ -331,62 +330,7 @@
         </div>
       </section>
 
-      <section id="Courses" class="down_space">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-12 text-center">
-              <h4 class="uppercase mb16">Courses</h4>
-              <p class="lead mb64">
-              </p>
-            </div>
-          </div>
-
-          <div class="row-fluid">
-            <div class="col-md-4 col-xm-12">
-              <div class="image-tile outer-title text-center bg-white">
-                <a href="https://www.udacity.com" target="_blank">
-                  <img alt="Pic" src="img/udacity_logo.jpg" style="max-width: 300px">
-                </a>
-                <p class="mb0"> </p>
-              </div>
-            </div>
-            <div class="col-md-2 col-xm-12">
-              <div class="image-tile outer-title text-center bg-white">
-                <a href="https://www.udacity.com" target="_blank">
-                  <img alt="Pic" src="img/udacity_android.jpg" style="max-width: 300px">
-                </a>
-                <p class="mb0"> </p>
-              </div>
-            </div>
-            <div class="col-md-2 col-xm-12">
-              <div class="image-tile outer-title text-center bg-white">
-                <a href="https://www.udacity.com" target="_blank">
-                  <img alt="Pic" src="img/udacity_fullstack.jpg" style="max-width: 300px">
-                </a>
-                <p class="mb0"> </p>
-              </div>
-            </div>
-            <div class="col-md-2 col-xm-12">
-              <div class="image-tile outer-title text-center bg-white">
-                <a href="https://www.udacity.com" target="_blank">
-                  <img alt="Pic" src="img/udacity_frontend.jpg" style="max-width: 300px">
-                </a>
-                <p class="mb0"> </p>
-              </div>
-            </div>
-            <div class="col-md-2 col-xm-12" style="height: inherit">
-              <div class="image-tile outer-title text-center bg-white">
-                <a href="https://www.udacity.com" target="_blank">
-                  <img alt="Pic" src="img/udacity_ios.jpg" style="max-width: 300px">
-                </a>
-                <p class="mb0"> </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        </div>
-      </section>
-
+      <?php include('./index/courses.html'); ?>
 
 
       <footer class="footer-2 bg-dark text-center-xs">
