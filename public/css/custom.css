@@ -31,6 +31,11 @@
   background-color: #2B5486;
 }
 
+.background-gray-b7{
+  background-color: #b7b7b7;
+  color: #fff;
+}
+
 .background-blue{
 background-color: #2B5486;
 color: #fff;
@@ -38,6 +43,11 @@ color: #fff;
 
 .white_text{
   color: #FFF;
+}
+
+
+.text-blue-dark{
+  color: #003468
 }
 
 .text-justify {

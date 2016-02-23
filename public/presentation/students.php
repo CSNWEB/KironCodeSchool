@@ -23,15 +23,15 @@
     <meta property="og:site_name" content="Kiron CodeSchool" />
     <meta property="og:url"       content="https://codeschool.kiron.university">
     <meta property="og:image"     content="https://codeschool.kiron.university/img/fb_1.png?t=12345?" />
-    <meta property="fb:app_id"    content="937824876298597"/>
+    <meta property="fb:app_id"     content="937824876298597"/>
     <meta property="og:description" content="Kiron CodeSchool is a professional education program that helps refugees' integration by transforming them into successful software developers">
 
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
     <link href="css/themify-icons.css"    rel="stylesheet" type="text/css" media="all" />
-    <link href="css/bootstrap.min.css"    rel="stylesheet" type="text/css" media="all" />
+    <link href="css/bootstrap.min.css"        rel="stylesheet" type="text/css" media="all" />
     <link href="css/theme.css"            rel="stylesheet" type="text/css" media="all" />
     <link href="css/share.css"            rel="stylesheet" type="text/css" media="all" />
-    <link href="css/custom.css?"          rel="stylesheet" type="text/css" media="all" />
+    <link href="css/custom_new.css"           rel="stylesheet" type="text/css" media="all" />
 
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,600,700" rel="stylesheet" type="text/css">
@@ -88,7 +88,7 @@
     </div>
 
     <div class="main-container">
-      <?php include('./index/meetsies.html'); ?>
+
       <section id="The Program" class="pb64 pb-xs-40">
         <div id="The Program" class="container">
           <div class="row">
