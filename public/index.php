@@ -27,10 +27,11 @@
     <meta property="og:description" content="Kiron CodeSchool is a professional education program that helps refugees' integration by transforming them into successful software developers">
 
     <link href="css/themify-icons.css"                rel="stylesheet" type="text/css" media="all" />
-    <link href="css/bootstrap.min.css?version=asdf"    rel="stylesheet" type="text/css" media="all" />
-    <link href="css/theme.css?version=asdf’"            rel="stylesheet" type="text/css" media="all" />
-    <link href="css/share.css"                         rel="stylesheet" type="text/css" media="all" />
-    <link href="css/custom.css?version=asdf1"          rel="stylesheet" type="text/css" media="all" />
+    <link href="css/font-awesome.min.css"                rel="stylesheet" type="text/css" media="all" />
+    <link href="css/bootstrap.min.css?version=asdf"   rel="stylesheet" type="text/css" media="all" />
+    <link href="css/theme.css?version=asdf’"          rel="stylesheet" type="text/css" media="all" />
+    <link href="css/share.css"                        rel="stylesheet" type="text/css" media="all" />
+    <link href="css/custom.css?version=asdf1"         rel="stylesheet" type="text/css" media="all" />
 
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,600,700" rel="stylesheet" type="text/css">
