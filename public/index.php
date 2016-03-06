@@ -21,8 +21,8 @@
     <meta property="og:type"      content="website">
     <meta property="og:title"     content="Teaching Software Development for Integration" />
     <meta property="og:site_name" content="Kiron CodeSchool" />
-    <meta property="og:url"       content="https://codeschool.kiron.university">
-    <meta property="og:image"     content="https://codeschool.kiron.university/img/fb_1.png?t=12345?" />
+    <meta property="og:url"       content="https://codeschool.kiron.ngo">
+    <meta property="og:image"     content="https://codeschool.kiron.ngo/img/fb_1.png?t=12345?" />
     <meta property="fb:app_id"    content="937824876298597"/>
     <meta property="og:description" content="Kiron CodeSchool is a professional education program that helps refugees' integration by transforming them into successful software developers">
 
@@ -79,7 +79,7 @@
                 <a id="" class="btn btn-lg subscribe-button text-center" href="/apply"> Apply </a>
               </div>
               <div class="row">
-                <a id="donate-button" class="btn btn-lg subscribe-button text-center" href="mailto:codeschool@kiron.university"> </a>
+                <a id="donate-button" class="btn btn-lg subscribe-button text-center" href="mailto:codeschool@kiron.ngo"> </a>
               </div>
             </div>
           </div>
@@ -164,7 +164,7 @@
             </div>
             <div class="col-md-2 col-md-24 col-sm-6 col-xm-12">
               <div class="image-tile outer-title text-center">
-                <a href="mailto:codeschool@kiron.university">
+                <a href="mailto:codeschool@kiron.ngo">
                   <div class="image-about">
                     <img alt="Pic" src="img/juan.jpg">
                     <div class="title mb16 bg-white image-label">
@@ -178,7 +178,7 @@
             </div>
             <div class="col-md-2 col-md-24 col-sm-6 col-xm-12">
               <div class="image-tile outer-title text-center">
-                <a href="mailto:codeschool@kiron.university">
+                <a href="mailto:codeschool@kiron.ngo">
                   <div class="image-about">
                     <img alt="Pic" src="img/alejandro.jpg">
                     <div class="title mb16 bg-white image-label">
@@ -192,7 +192,7 @@
             </div>
             <div class="col-md-2 col-md-24 col-sm-6 col-xm-12">
               <div class="image-tile outer-title text-center">
-                <a href="mailto:codeschool@kiron.university">
+                <a href="mailto:codeschool@kiron.ngo">
                   <div class="image-about">
                     <img alt="Pic" src="img/acacia.jpg">
                     <div class="title mb16 bg-white image-label">
@@ -206,7 +206,7 @@
             </div>
             <div class="col-md-2 col-md-24 col-sm-6 col-xm-12">
               <div class="image-tile outer-title text-center">
-                <a href="mailto:codeschool@kiron.university">
+                <a href="mailto:codeschool@kiron.ngo">
                   <div class="image-about">
                     <img alt="Pic" src="img/beatriz.jpg">
                     <div class="title mb16 bg-white image-label">
@@ -322,7 +322,7 @@
           <h3 class="uppercase white_text">Get In Touch!</h3>
           <h4 class="white_text" style="margin-bottom: 0">
             If you want to become a mentor, volunteer or donate laptops, space or WiFi contact us at</h4>
-          <a style="font-size: 16px" href: "mailto:codeschool@kiron.university">codeschool@kiron.university</a>
+          <a style="font-size: 16px" href: "mailto:codeschool@kiron.ngo">codeschool@kiron.ngo</a>
           <h4></h4>
           <h4 class="white_text">
             If you want to donate:
