@@ -74,6 +74,7 @@
           <div class="col-lg-12">
             <div class="intro-message">
               <h1 class="mb-xs-16 ">Kiron CodeSchool: Bootstrap your new life now</h1>
+<h1 class="mb-xs-16 ">Hello Class!!!</h1>
               <p class="lead mb40">We help refugees' integration by transforming them into successful software developers</p>
               <div class="row">
                 <a id="" class="btn btn-lg subscribe-button text-center" href="/apply"> Apply </a>
