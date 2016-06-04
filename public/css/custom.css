@@ -2,7 +2,7 @@
 
 
 .subscribe-button:hover {
-  background-color: #223f63;
+  background-color: #fff;
   color: #fff;
 }
 
@@ -37,11 +37,15 @@ body.boxed-layout, .boxed-layout .nav-container, .boxed-layout .main-container, 
 
 #donate-button:hover::before {
   font-size: 12px;
-  content: "CodeSchool@kiron.university"
+  content: "info@elium4.org"
 }
 
 .blue_back{
   background-color: #2B5486;
+}
+
+.gray_back{
+    background-color: #997a6d;
 }
 
 .background-gray-b7{
